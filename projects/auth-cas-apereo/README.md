@@ -74,9 +74,9 @@ Add the `auth-cas-apereo` component where you want the CAS to handle authenticat
 
 To get logged in user use the SessionStorage:
 ```json
-    window.sessionStorage.getItem('loginUser')
-    window.sessionStorage.getItem('ticketUser')
-    window.sessionStorage.getItem('attrsUser')
+    window.sessionStorage.getItem('loginCasUser')
+    window.sessionStorage.getItem('ticketCasUser')
+    window.sessionStorage.getItem('attrsCasUser')
 ```
 
 

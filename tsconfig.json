@@ -15,6 +15,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "auth-cas-apereo": [
+        "dist/auth-cas-apereo"
+      ],
+      "auth-cas-apereo/*": [
+        "dist/auth-cas-apereo/*"
+      ]
+    }
   }
 }

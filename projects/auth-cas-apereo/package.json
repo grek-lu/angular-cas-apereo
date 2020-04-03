@@ -1,6 +1,6 @@
 {
   "name": "auth-cas-apereo",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Angular integration with CAS Apereo SSO",
   "homepage": "https://github.com/grek-lu/angular-cas-apereo",
   "keywords": [

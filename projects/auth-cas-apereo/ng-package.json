@@ -3,7 +3,7 @@
   "dest": "../../dist/auth-cas-apereo",
   "deleteDestPath": false,
   "lib": {
-    "entryFile": "src/public-api.ts"
+    "entryFile": "src/public_api.ts"
   },
   "whitelistedNonPeerDependencies": [
     "timers",
