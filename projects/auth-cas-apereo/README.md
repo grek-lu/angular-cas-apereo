@@ -78,3 +78,8 @@ To get logged in user use the SessionStorage:
     window.sessionStorage.getItem('ticketUser')
     window.sessionStorage.getItem('attrsUser')
 ```
+
+
+## More information
+
+Original [source code](https://github.com/RicardoBorgesGO/cas-client-angular)
